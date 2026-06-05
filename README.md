@@ -126,4 +126,3 @@ This project demonstrates how data analysis and visualization can support market
 
 # Author
 Sujal Narge  
-MBA Student | Data Analytics & Business Analysis Enthusiast
